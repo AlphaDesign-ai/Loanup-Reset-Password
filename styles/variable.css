@@ -1,0 +1,31 @@
+:root {
+  /* color*/
+  --white: #ffffff;
+  --primary-colour: #5a00d3;
+
+  --light-grey-1: #d5d0ff;
+  --light-grey-2: #f5f4fc;
+
+  --dark-grey-1: #1d1937;
+  --dark-grey-2: #878797;
+  --dark-grey-3: #b8b5d4;
+
+  /* button colour */
+  --tertiary-bt-bg: var(--light-grey-2);
+  --tertiary-bt-text-colour: var(--primary-colour);
+
+  --primary-bt-bg: var(--primary-colour);
+  --primary-bt-text-colour: var(--white);
+
+  /* grid */
+  --layout-width: 1440px;
+  --layout-margin: 80px;
+
+  /* font*/
+  --font-lg: 3.6rem;
+  --font-lg-lh: 1;
+  --font-md: 1.7rem;
+  --font-md-lh: 24px;
+  --font-sm: 1.5rem;
+  --font-sm-lh: 20px;
+}
